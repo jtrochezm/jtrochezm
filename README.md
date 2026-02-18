@@ -5,7 +5,8 @@ Estudiante de Ciencias de la Computación · Universidad Nacional de Colombia
 
 <p align="center">
 Mi interés principal es construir soluciones técnicamente correctas, reproducibles y bien documentadas.
-enfocada en inteligencia artificial aplicada, desarrollo de software y análisis de datos.
 </p>
-
+<p align="center">
+enfocado en inteligencia artificial aplicada, desarrollo de software y análisis de datos.
+</p>
 
